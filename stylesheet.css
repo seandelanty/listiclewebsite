@@ -1,0 +1,51 @@
+.indextitle {
+  position: relative;
+  top: 3%;
+  left: 3%;
+  font-size: 80px;
+}
+
+.listtitle {
+  position: relative;
+  top: 3%;
+  left: 3%;
+  font-size: 80px;
+  width: 95%;
+}
+
+.indexbody {
+  position: relative;
+  top: 5%;
+  left: 3%;
+}
+
+.listbody {
+  position: relative;
+  top: 5%;
+  left: 3%;
+  font-size: 30px;
+  width: 70%;
+}
+
+.lists {
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+
+#list1 {
+  margin-top: -50px;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: -40px;
+  margin-top: -50px;
+}
+
+li {
+  margin-bottom: 30px;
+}
