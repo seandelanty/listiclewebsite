@@ -19,6 +19,16 @@
   left: 3%;
 }
 
+.listintro {
+  position: relative;
+  top: 5%;
+  left: 3%;
+  font-size: 30px;
+  width: 70%;
+  margin-top: -50px;
+  margin-bottom: 75px;
+}
+
 .listbody {
   position: relative;
   top: 5%;
